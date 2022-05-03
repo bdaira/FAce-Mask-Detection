@@ -2,3 +2,5 @@
 numpy
 tensorflow
 opencv
+# Run
+pip install untitled3.ipynb
